@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  CamelCase.cpp
+c:\users\andrew\documents\visual studio 2015\projects\camelcase\camelcase\camelcase.cpp(35): warning C4018: '<': signed/unsigned mismatch
+  CamelCase.vcxproj -> c:\users\andrew\documents\visual studio 2015\Projects\CamelCase\Debug\CamelCase.exe
